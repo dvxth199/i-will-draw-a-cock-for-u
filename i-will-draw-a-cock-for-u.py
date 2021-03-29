@@ -1,5 +1,6 @@
 import turtle
 
+turtle.speed(1)
 
 turtle.circle(50)
 turtle.penup()
